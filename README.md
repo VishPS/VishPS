@@ -24,6 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=VishPS&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ### Now Playing
-<a href="https://youtu.be/2zToEPpFEN8?si=fwKeTb20Tt8c2L3f"><img src="https://imgs.search.brave.com/fRRAaVc1DPfzOwN13MpslEZiub6hqMmvahf_l4JGZWw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucW9idXouY29t/L2ltYWdlcy9jb3Zl/cnMvcGMva2wvYTVr/YjZvN3I3a2xwY182/MDAuanBn" width="400" height="200"></a>
+<a href="https://youtu.be/gCYcHz2k5x0?t=80"><img src="https://imgs.search.brave.com/OSOS0NgDyGEeIH2QSf2PC-FyRHhBnOkJaBYo4zU3Qlg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2Ft/ZXJpY2FudG9wNDAv/aW1hZ2VzLzEvMTQv/TWFydGluX0dhcnJp/eF8tX0FuaW1hbHNf/KE9mZmljaWFsX1Zp/ZGVvKS9yZXZpc2lv/bi9sYXRlc3Q_Y2I9/MjAxNDAyMTMwMDQ3/MDc.jpeg" width="400" height="200"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
