@@ -24,6 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=VishPS&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ### Now Playing
-<a href="https://youtu.be/gCYcHz2k5x0?t=80"><img src="https://imgs.search.brave.com/OSOS0NgDyGEeIH2QSf2PC-FyRHhBnOkJaBYo4zU3Qlg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2Ft/ZXJpY2FudG9wNDAv/aW1hZ2VzLzEvMTQv/TWFydGluX0dhcnJp/eF8tX0FuaW1hbHNf/KE9mZmljaWFsX1Zp/ZGVvKS9yZXZpc2lv/bi9sYXRlc3Q_Y2I9/MjAxNDAyMTMwMDQ3/MDc.jpeg" width="400" height="200"></a>
+<a href="https://youtu.be/gCYcHz2k5x0?t=80"><img src="https://imgs.search.brave.com/xCuktPEaZrzNI1eCMa0eL0spzZtfR4rba9M_0vRj1So/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3haMWlL/Y280TjVTVU0vMTAw/LmdpZj9jaWQ9Nzkw/Yjc2MTExam40YWUw/ZHBiejV3YjY5YXJy/ZGh0ZzkwbTJjMXoz/bXg0dHZqbnkxJmVw/PXYxX2dpZnNfc2Vh/cmNoJnJpZD0xMDAu/Z2lmJmN0PWc.gif" width="400" height="200"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
