@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I'm an AI/ML Enthusiast pursuing B-Tech in CSE(AI/ML) from VITC.<br>👯 I’m currently working on Face Recognition using ANN as well as inclusion of spotify in github.<br>🤝 I’ve done projects on AI/ML.<br>🌱 I’m learning Full Stack Dev as of now. 
 
-### Now Playing
-[![](https://imgs.search.brave.com/fRRAaVc1DPfzOwN13MpslEZiub6hqMmvahf_l4JGZWw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucW9idXouY29t/L2ltYWdlcy9jb3Zl/cnMvcGMva2wvYTVr/YjZvN3I3a2xwY182/MDAuanBn)]([https://www.youtube.com/watch?v=iuJDhFRDx9M](https://youtu.be/2zToEPpFEN8?si=fwKeTb20Tt8c2L3f))
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VishweshPalSaini) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x_plo_siv3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VishweshPalSaini) 
 
@@ -25,5 +22,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VishPS&icon=2&color=6)](https://visitcount.itsvg.in)
+
+### Now Playing
+[![](https://imgs.search.brave.com/fRRAaVc1DPfzOwN13MpslEZiub6hqMmvahf_l4JGZWw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucW9idXouY29t/L2ltYWdlcy9jb3Zl/cnMvcGMva2wvYTVr/YjZvN3I3a2xwY182/MDAuanBn)]([https://www.youtube.com/watch?v=iuJDhFRDx9M](https://youtu.be/2zToEPpFEN8?si=fwKeTb20Tt8c2L3f))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
