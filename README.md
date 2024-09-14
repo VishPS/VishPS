@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm an AI/ML Enthusiast pursuing B-Tech in CSE(AI/ML) from VITC .<br>👯 I’m currently working on Face Recognition using ANN.<br>🤝 I’ve done projects on AI/ML.<br>🌱 I’m learning Full Stack Dev as of now. 
+🔭 I'm an AI/ML Enthusiast pursuing B-Tech in CSE(AI/ML) from VITC .<br>👯 I’m currently working on Face Recognition using ANN as well as inclusion of spotify in github.<br>🤝 I’ve done projects on AI/ML.<br>🌱 I’m learning Full Stack Dev as of now. 
 
 
 ## 🌐 Socials:
