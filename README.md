@@ -24,6 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=VishPS&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ### Now Playing
-[![](https://imgs.search.brave.com/fRRAaVc1DPfzOwN13MpslEZiub6hqMmvahf_l4JGZWw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucW9idXouY29t/L2ltYWdlcy9jb3Zl/cnMvcGMva2wvYTVr/YjZvN3I3a2xwY182/MDAuanBn)]([https://www.youtube.com/watch?v=iuJDhFRDx9M](https://youtu.be/2zToEPpFEN8?si=fwKeTb20Tt8c2L3f))
+<a href="https://youtu.be/2zToEPpFEN8?si=fwKeTb20Tt8c2L3f"><img src="https://imgs.search.brave.com/fRRAaVc1DPfzOwN13MpslEZiub6hqMmvahf_l4JGZWw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMucW9idXouY29t/L2ltYWdlcy9jb3Zl/cnMvcGMva2wvYTVr/YjZvN3I3a2xwY182/MDAuanBn" width="400" height="200"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
