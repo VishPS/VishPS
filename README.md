@@ -2,6 +2,8 @@
 🔭 I'm an AI/ML Enthusiast pursuing B-Tech in CSE(AI/ML) from VITC.<br>👯 I’m currently working on Face Recognition using ANN as well as inclusion of spotify in github.<br>🤝 I’ve done projects on AI/ML.<br>🌱 I’m learning Full Stack Dev as of now. 
 
 ### Now Playing
+[![Watch the video](https://imgs.search.brave.com/_ruiwBPA0R627QAnYxH3fcy81x-4z9tJtHQv8VmAV3o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2Fy/dHdvcmtzLTAwMDQz/MzM1MDA2Ni1rMHI4/YjctdDUwMHg1MDAu/anBn)](https://youtu.be/iuy5Xc4k2iQ?si=sBj4RAMqXvg3hYOZ)
+_Click the image above to play the video, or watch it directly below:_
 <iframe width="560" height="315" src="https://youtu.be/iuy5Xc4k2iQ?si=sBj4RAMqXvg3hYOZ" frameborder="0" allowfullscreen></iframe>
 
 ## 🌐 Socials:
